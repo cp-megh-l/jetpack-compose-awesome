@@ -80,6 +80,7 @@
 - 🆕[](#28-05-23) [🚀 Drawing edge to edge in Jetpack Compose](https://www.composables.com/tutorials/insets)
 - 🆕[](#28-05-23) [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a)
 - 🆕[](#28-05-23) [🚀 Every single type of Dialog in Jetpack Compose and how to use them](https://www.composables.com/tutorials/dialogs)
+- 🆕[](#28-05-23) [Live Streaming and Audio Equalizer with ExoPlayer in Jetpack Compose](https://blog.canopas.com/live-streaming-and-audio-equalizer-with-exoplayer-in-jetpack-compose-a74fb5eb93cb)
 
 ### Getting started
 
@@ -114,6 +115,7 @@
 - [compose-router]() -  Routing functionality for Jetpack Compose with back stack
 [voyager](https://github.com/adrielcafe/voyager) - A pragmatic navigation library for Jetpack Compose
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
+- [compose-animated-navigationbar](https://github.com/canopas/compose-animated-navigationbar) - A library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations and multiple style options.
 
 
 **Articles**
@@ -156,6 +158,7 @@
 - [Intro showcase view in Jetpack Compose — Android](https://blog.canopas.com/intro-showcase-view-in-jetpack-compose-ac044cd3bf28)
 - 🆕[](#28-05-23) [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791)
 - 🆕[](#28-05-23) [Creating Pager Animations in Jetpack Compose](https://www.sinasamaki.com/pager-animations/)
+- 🆕[](#28-05-23) [How to Use Render Effects in Jetpack Compose for Stunning Visuals](https://blog.canopas.com/how-to-use-render-effects-in-jetpack-compose-for-stunning-visuals-01287d7f00db)
 
 ### Interop
 
@@ -243,6 +246,7 @@
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
 - [snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose
+- [compose-recyclerview](https://github.com/canopas/compose-recyclerview/tree/master) - A library that allows seamless integration of composables in RecyclerView, addressing performance concerns and LazyList issues. Enjoy improved rendering performance, built-in drag-and-drop support, flexible configuration, and easy handling of multiple item types for dynamic UIs.
 
 ### UI
 
